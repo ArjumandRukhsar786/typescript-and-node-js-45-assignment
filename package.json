@@ -1,0 +1,12 @@
+{
+  "name": "typscript and node js 45 assignment",
+  "version": "1.0.0",
+  "description": "in this typescript file we solved all 45 assignment of governor sindh IT initiative",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arjumand Rukhsar (00274589)",
+  "license": "ISC"
+}
